@@ -1,0 +1,316 @@
+
+/* OpenInSafari */
+"Browser.Text.OpenInSafari" = "Open In Safari";
+
+/* Retake */
+"Camera.Button.Retake" = "Retake";
+
+/* New picture from camera */
+"Camera.Share.Email.Body" = "New picture from camera";
+
+/* New picture from camera */
+"Camera.Share.Email.Subject" = "New picture from camera";
+
+/* Continue */
+"Catalog.Cart.Alert.ContinueTitle" = "Continue";
+
+/* View Cart */
+"Catalog.Cart.Alert.ViewCartTitle" = "View Cart";
+
+/* Enter your contact info */
+"Catalog.Cart.ContactInfoLabel" = "Enter your contact info";
+
+/* You shopping cart is empty */
+"Catalog.Cart.MessageEmpty" = "You shopping cart is empty";
+
+/* Shopping cart */
+"Catalog.Cart.ShoppingCart" = "Shopping cart";
+
+/* Submit Order */
+"Catalog.Cart.SubmitOrder" = "Submit Order";
+
+/* Total */
+"Catalog.Cart.Total" = "Total";
+
+/* %d Comments */
+"Common.Comments.NComments" = "%d Comments";
+
+/* No Comments */
+"Common.Comments.NoComments" = "No Comments";
+
+/* %d Replies */
+"Common.Comments.NReplies" = "%d Replies";
+
+/* 1 Comment */
+"Common.Comments.OneComments" = "1 Comment";
+
+/* 1 Reply */
+"Common.Comments.OneReply" = "1 Reply";
+
+/* Reply */
+"Common.Comments.Reply" = "Reply";
+
+/* Just Now */
+"Common.Date.JustNow" = "Just Now";
+
+/* %d days ago */
+"Common.Date.NDaysAgo" = "%d days ago";
+
+/* %d minutes ago */
+"Common.Date.NMinutesAgo" = "%d minutes ago";
+
+/* 1 minute ago */
+"Common.Date.OneMinuteAgo" = "1 minute ago";
+
+/* Yesterday */
+"Common.Date.Yesterday" = "Yesterday";
+
+/* I just found %@ audio from the %@ iPhone app and thought you'd like it. */
+"Common.Share.Audio.Message" = "I just found %@ audio from the %@ iPhone app and thought you'd like it.";
+
+/* Download the %@ iPhone/Android app:  %@ */
+"Common.Share.Link" = "Download the %@ iPhone/Android app:  %@";
+
+/* I just found %@ photo from the %@ iPhone app and thought you'd like it. */
+"Common.Share.Photo.Message" = "I just found %@ photo from the %@ iPhone app and thought you'd like it.";
+
+/* Posted via iBuildApp http://ibuildapp.com. */
+"Common.Share.PostedVia" = "Posted via iBuildApp http://ibuildapp.com.";
+
+/* I just found %@ video from the %@ iPhone app and thought you'd like it. */
+"Common.Share.Video.Message" = "I just found %@ video from the %@ iPhone app and thought you'd like it.";
+
+/* Calendar */
+"Common.Text.Calendar" = "Calendar";
+
+/* Call */
+"Common.Text.Call" = "Call";
+
+/* Cancel */
+"Common.Text.Cancel" = "Cancel";
+
+/* Close */
+"Common.Text.Close" = "Close";
+
+/* Delete */
+"Common.Text.Delete" = "Delete";
+
+/* Email */
+"Common.Text.Email" = "Email";
+
+/* Message */
+"Common.Text.Message" = "Message";
+
+/* Name */
+"Common.Text.Name" = "Name";
+
+/* No result found */
+"Common.Text.NoResults" = "No results found";
+
+/* OK */
+"Common.Text.Ok" = "OK";
+
+/* Send */
+"Common.Text.Send" = "Send";
+
+/* Share */
+"Common.Text.Share" = "Share";
+
+/* This device can't make phone calls */
+"Core.Message.CantCall.Body" = "This device can't make phone calls";
+
+/* Phone call not supported */
+"Core.Message.CantCall.Title" = "Phone call not supported";
+
+/* Can't open url */
+"Core.Message.CantOpenUrl.Body" = "Can't open url";
+
+/* Invalid url */
+"Core.Message.CantOpenUrl.Title" = "Invalid url";
+
+/* This device not configured to send mail */
+"Core.Message.CantSendEmail.Body" = "This device not configured to send mail";
+
+/* Mail cannot be send */
+"Core.Message.CantSendEmail.Title" = "Mail cannot be send";
+
+/* This device not configured to send SMS */
+"Core.Message.CantSendSMS.Body" = "This device not configured to send SMS";
+
+/* SMS cannot be send */
+"Core.Message.CantSendSMS.Title" = "SMS";
+
+/* Invalid email address */
+"Core.Message.InvalidEmailAddress.Body" = "Invalid email address";
+
+/* Email address */
+"Core.Message.InvalidEmailAddress.Title" = "Email address";
+
+/* Invalid phone number */
+"Core.Message.InvalidPhoneNumber.Body" = "Phone number";
+
+/* Invalid phone number */
+"Core.Message.InvalidPhoneNumber.Title" = "Invalid phone number";
+
+/* Sent from */
+"Core.Message.SentFrom" = "Sent from";
+
+/* At */
+"core_formatTimeIntervalAt" = "at";
+
+/* Confirm Password */
+"CoreUI.Login.ConfirmPassword" = "Confirm Password ";
+
+/* Your registration is complete. You will get an email with a link to verify your email before using the app. */
+"CoreUI.Login.EmailVerification" = "Your registration is complete. You will get an email with a link to verify your email before using the app.";
+
+/* Your registration is complete. You will get an email with a link to verify your email when your registration is approved. */
+"CoreUI.Login.EmailVerificationAndOwnerApproval" = "Your registration is complete. You will get an email with a link to verify your email when your registration is approved.";
+
+/* Password is incorrect */
+"CoreUI.Login.Error.Forbidden" = "Password is incorrect";
+
+/* Please enter identical passwords */
+"CoreUI.Login.Error.InvalidConfirmPassword" = "Please enter identical passwords";
+
+/* Enter valid email address */
+"CoreUI.Login.Error.InvalidEmail" = "Enter valid email address";
+
+/* Please enter user name */
+"CoreUI.Login.Error.InvalidName" = "Please enter user name";
+
+/* Password must be at least 6 symbols */
+"CoreUI.Login.Error.InvalidPassword" = "Password must be at least 6 symbols";
+
+/* App unable sign in due unknown error. Try it later. */
+"CoreUI.Login.Error.Unknown" = "App unable sign in due unknown error. Try it later.";
+
+/* Account is exists. Check your email or use new one. */
+"CoreUI.Login.Error.UserExists" = "Account is exists. Check your email or use new one.";
+
+/* Account is not exists. Check your login or register new account. */
+"CoreUI.Login.Error.UserNotExists" = "Account is not exists. Check your login or register new account.";
+
+/* Forgot password? */
+"CoreUI.Login.ForgotPassword" = "Forgot password?";
+
+/* Forgot password message */
+"CoreUI.Login.ForgotPasswordMessage" = "To reset your password, type full email address you used to sign in.";
+
+/* Your registration is complete. You will get a notification when your registration is approved. */
+"CoreUI.Login.OwnerApproval" = "Your registration is complete. You will get a notification when your registration is approved.";
+
+/* Password */
+"CoreUI.Login.Password" = "Password";
+
+/* Remember me */
+"CoreUI.Login.RememberMe" = "Remember me";
+
+/* Sign In */
+"CoreUI.Login.SignIn" = "Sign In";
+
+/* Sign Up */
+"CoreUI.Login.SignUp" = "Sign Up";
+
+/* Module data is empty */
+"CoreUI.Module.EmptyData" = "Module data is empty";
+
+/* Email fail message body */
+"Email.Message.Error.Body" = "Email sending failed";
+
+/* Email */
+"Email.Message.Error.Title" = "Email";
+
+/* Sent from
+   Sent from iBuildApp */
+"Email.Message.SentFrom" = "Sent from iBuildApp";
+
+/* Thank You - your information has been sent */
+"Email.Message.Success" = "Thank You - your information has been sent";
+
+/* Adding to calendar is disabled */
+"Events.Message.Error.Diabled" = "Adding to calendar is disabled";
+
+/* Event already exists. */
+"Events.Message.Error.Exists" = "Event already exists.";
+
+/* Events */
+"Events.Message.Error.Title" = "Events";
+
+/* The event '%@' has been successfully added to your calendar */
+"Events.Message.Success" = "The event '%@' has been successfully added to your calendar";
+
+/* Get direction */
+"Maps.Text.GetDirection" = "Get direction";
+
+/* Go to website */
+"Maps.Text.GoToWebsite" = "Go to website";
+
+/* Hybride */
+"Maps.Types.Hybride" = "Hybride";
+
+/* Normal */
+"Maps.Types.Normal" = "Normal";
+
+/* Stellite */
+"Maps.Types.Stellite" = "Stellite";
+
+/* I just read excellent news! */
+"RSS.Share.Message" = "I just read excellent news!";
+
+/* Excellent news */
+"RSS.Share.Subject" = "Excellent news";
+
+/* Play media */
+"RSS.Text.PlayMedia" = "Play media";
+
+/* Read more... */
+"RSS.Text.ReadMore" = "Read more...";
+
+/* Search */
+"SearchBar.Placeholder.Search" = "Search";
+
+/* Search by contact info */
+"SearchBar.Placeholder.Text" = "Search by contact info";
+
+/* SMS fail message body */
+"SMS.Message.Error.Body" = "SMS sending failed";
+
+/* SMS fail message title */
+"SMS.Message.Error.Title" = "SMS fail message title";
+
+/* Sent from iBuildApp */
+"SMS.Message.SentFrom" = "Sent from iBuildApp";
+
+/* Thank You - your information has been sent */
+"SMS.Message.Success" = "Message has ben sent";
+
+/* Device has no camera */
+"Twitter.NoCamera" = "Device has no camera";
+
+/* Error */
+"Twitter.Profile.ErrorTitle" = "Error";
+
+/* Followers */
+"Twitter.Profile.Followers" = "Followers";
+
+/* Following */
+"Twitter.Profile.Following" = "Following";
+
+/* Post */
+"Twitter.Profile.Post" = "Post";
+
+/* Profile */
+"Twitter.Profile.Profile" = "Profile";
+
+/* Reply */
+"Twitter.Profile.Title" = "Reply";
+
+/* Tweets */
+"Twitter.Profile.Tweets" = "Tweets";
+
+/* Unfollow */
+"Twitter.Profile.Unfollow" = "Unfollow";
+
+/* Would you like to unfollow user? */
+"Twitter.Profile.unfollowMessage" = "Would you like to unfollow user?";

@@ -1,0 +1,234 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AudioListModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - AutoInsetter (1.8.0)
+  - BookstoreModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+    - Kingfisher
+  - Cache (5.2.0)
+  - CameraModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+    - NextLevel
+  - CustomFormModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - DashboardModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - EmailModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - FlexLayout (1.3.17)
+  - GRDB.swift (4.4.0):
+    - GRDB.swift/standard (= 4.4.0)
+  - GRDB.swift/standard (4.4.0)
+  - HCVimeoVideoExtractor (0.0.1)
+  - HtmlModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - IBACore (1.0.0):
+    - Alamofire (= 4.9.0)
+    - Cache (= 5.2.0)
+    - SwiftAudio (= 0.11.1)
+    - XMLMapper (= 1.5.3)
+  - IBACoreUI (1.0.0):
+    - FlexLayout (= 1.3.17)
+    - GRDB.swift (= 4.4.0)
+    - IBACore
+    - Kingfisher (= 5.8.3)
+    - PinLayout (= 1.8.12)
+    - PKHUD (= 5.3.0)
+    - Tabman (= 2.6.3)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - NextLevel (0.16.0)
+  - Pageboy (3.5.0)
+  - PDFReaderModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - PhoneCallModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - PhotoGalleryModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - PinLayout (1.8.12)
+  - PKHUD (5.3.0)
+  - QRScannerModule (0.0.1):
+    - IBACore
+    - IBACoreUI
+  - SwiftAudio (0.11.1)
+  - Tabman (2.6.3):
+    - AutoInsetter (~> 1.8.0)
+    - Pageboy (~> 3.5.0)
+  - VideoListModule (0.0.1):
+    - HCVimeoVideoExtractor
+    - IBACore
+    - IBACoreUI
+    - XCDYouTubeKit
+  - XCDYouTubeKit (2.8.2)
+  - XMLMapper (1.5.3):
+    - XMLMapper/Core (= 1.5.3)
+  - XMLMapper/Core (1.5.3)
+
+DEPENDENCIES:
+  - AudioListModule (from `https://github.com/iBuildApp/ios_audiolistwidget.git`, branch `master`)
+  - BookstoreModule (from `https://github.com/iBuildApp/ios_bookstorewidget.git`, branch `master`)
+  - CameraModule (from `https://github.com/iBuildApp/ios_camerawidget.git`, branch `master`)
+  - CustomFormModule (from `https://github.com/iBuildApp/ios_customformwidget.git`, branch `master`)
+  - DashboardModule (from `https://github.com/iBuildApp/ios_dashboardwidget.git`, branch `master`)
+  - EmailModule (from `https://github.com/iBuildApp/ios_emailwidget.git`, branch `master`)
+  - HtmlModule (from `https://github.com/iBuildApp/ios_htmlwidget.git`, branch `master`)
+  - IBACore (from `https://github.com/iBuildApp/ios_IBACore.git`, branch `master`)
+  - IBACoreUI (from `https://github.com/iBuildApp/ios_IBACoreUI.git`, branch `master`)
+  - PDFReaderModule (from `https://github.com/iBuildApp/ios_pdfreaderwidget.git`, branch `master`)
+  - PhoneCallModule (from `https://github.com/iBuildApp/ios_phonecallwidget.git`, branch `master`)
+  - PhotoGalleryModule (from `https://github.com/iBuildApp/ios_photogallerywidget.git`, branch `master`)
+  - QRScannerModule (from `https://github.com/iBuildApp/ios_qrscannerwidget.git`, branch `master`)
+  - VideoListModule (from `https://github.com/iBuildApp/ios_videolistwidget.git`, branch `master`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AutoInsetter
+    - Cache
+    - FlexLayout
+    - GRDB.swift
+    - HCVimeoVideoExtractor
+    - Kingfisher
+    - NextLevel
+    - Pageboy
+    - PinLayout
+    - PKHUD
+    - SwiftAudio
+    - Tabman
+    - XCDYouTubeKit
+    - XMLMapper
+
+EXTERNAL SOURCES:
+  AudioListModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_audiolistwidget.git
+  BookstoreModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_bookstorewidget.git
+  CameraModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_camerawidget.git
+  CustomFormModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_customformwidget.git
+  DashboardModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_dashboardwidget.git
+  EmailModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_emailwidget.git
+  HtmlModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_htmlwidget.git
+  IBACore:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_IBACore.git
+  IBACoreUI:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_IBACoreUI.git
+  PDFReaderModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_pdfreaderwidget.git
+  PhoneCallModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_phonecallwidget.git
+  PhotoGalleryModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_photogallerywidget.git
+  QRScannerModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_qrscannerwidget.git
+  VideoListModule:
+    :branch: master
+    :git: https://github.com/iBuildApp/ios_videolistwidget.git
+
+CHECKOUT OPTIONS:
+  AudioListModule:
+    :commit: 5b9dc7f8d39df2524f59cd922bf6eb381146ebc6
+    :git: https://github.com/iBuildApp/ios_audiolistwidget.git
+  BookstoreModule:
+    :commit: 90da4890587cc6922cab05de95ef47b2edfd10e0
+    :git: https://github.com/iBuildApp/ios_bookstorewidget.git
+  CameraModule:
+    :commit: ca97bf33843e861ef56b7d800fdad5894b98d89b
+    :git: https://github.com/iBuildApp/ios_camerawidget.git
+  CustomFormModule:
+    :commit: 298cfcd68fa829dd52a7c8e4336dbedad8f50557
+    :git: https://github.com/iBuildApp/ios_customformwidget.git
+  DashboardModule:
+    :commit: 75095529c97e76e7811981783b5e80c1538e7061
+    :git: https://github.com/iBuildApp/ios_dashboardwidget.git
+  EmailModule:
+    :commit: 4905408bad991667ff285efa1217a3157c47d860
+    :git: https://github.com/iBuildApp/ios_emailwidget.git
+  HtmlModule:
+    :commit: dd7aca39b547cc3de8405f42e992339046436436
+    :git: https://github.com/iBuildApp/ios_htmlwidget.git
+  IBACore:
+    :commit: 18af2223e2a2c4a6b91a1af40ec355be1b14cebe
+    :git: https://github.com/iBuildApp/ios_IBACore.git
+  IBACoreUI:
+    :commit: 5ee852a7f02444391111fafabaae1c306695324a
+    :git: https://github.com/iBuildApp/ios_IBACoreUI.git
+  PDFReaderModule:
+    :commit: a0235108a3dd122259c6169f8ef9221f21672004
+    :git: https://github.com/iBuildApp/ios_pdfreaderwidget.git
+  PhoneCallModule:
+    :commit: 7c6716a43c4596f523f07dfa8dfc0c564d4680cf
+    :git: https://github.com/iBuildApp/ios_phonecallwidget.git
+  PhotoGalleryModule:
+    :commit: 3cbb7e13ce2f3da2bf7f70dae97492b29f6a73f3
+    :git: https://github.com/iBuildApp/ios_photogallerywidget.git
+  QRScannerModule:
+    :commit: 26286911432786b6ece43f022fd73a60de880d13
+    :git: https://github.com/iBuildApp/ios_qrscannerwidget.git
+  VideoListModule:
+    :commit: 3c6cd95c09dedf6cc616936cce68a33fdd337e59
+    :git: https://github.com/iBuildApp/ios_videolistwidget.git
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AudioListModule: ea6272ece717f29955c39d8a3d606675743fdf5b
+  AutoInsetter: 0b90ca74e36561c340129045a3722c51a0b15c58
+  BookstoreModule: 552d80d3f6e9930d733a5557ab551dab8b76177d
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  CameraModule: 4a8ba0305640ea0fa5d7b6e50a47f3a2ae0c307d
+  CustomFormModule: ec0e8008be09f387bbb9f8d6d72fa994dfe74569
+  DashboardModule: e74f8fbc89b8b41dcea79ff474d9b18732fa55c1
+  EmailModule: 0cc2bf90a4af9f97350a2fc2f375ac800caf2847
+  FlexLayout: 257b6763526bc957d2abc2b77a05760b86ca0e21
+  GRDB.swift: 4f9b6e7efc9470426f6a6de10ec1fee798ff7e43
+  HCVimeoVideoExtractor: d3c251280f7027ffd324266e1930b3618e0adb46
+  HtmlModule: c5eab89d21cd275aaf2bacf347ca56e575835d45
+  IBACore: 620d27970142bef57c1ec62b8d63a884e6bafc30
+  IBACoreUI: bc3ddbb186e1f06cf15c30dd0034279e245a661e
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  NextLevel: 160b90a86bb36b6fda7c03b8f238a923df880ce5
+  Pageboy: 3794c578aae5fcce06e90b3ed4a0ad6b807d75bb
+  PDFReaderModule: 53aa4c6f77c7b4a1e18e6c6cc37607dd6f5e363d
+  PhoneCallModule: 3bf033a33046632d2bf2ee14c50483a8d1e0d52e
+  PhotoGalleryModule: 487e6f4908161ed557853700fb80d45df2860342
+  PinLayout: 7710deec29658edf16811b27a89a90a0eddd0d9e
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  QRScannerModule: e0f1bf83b78d837b9a63abebd0cef2b35489901e
+  SwiftAudio: f71f0a94068539bf7819b6cc753c0e5dec89621f
+  Tabman: 63eae331ae7a9388ae389b1808f1939269fcdece
+  VideoListModule: 8d4dd9b3c2ad104539537947ef4bba949319849c
+  XCDYouTubeKit: 79baadb0560673a67c771eba45f83e353fd12c1f
+  XMLMapper: 26bfd75cd204b514b608a41681415f2bdbac1053
+
+PODFILE CHECKSUM: d7ef83dfacff367b2bb1180b0c748ce8fd84a644
+
+COCOAPODS: 1.8.4
