@@ -26,7 +26,6 @@ PODS:
   - GRDB.swift (4.4.0):
     - GRDB.swift/standard (= 4.4.0)
   - GRDB.swift/standard (4.4.0)
-  - HCVimeoVideoExtractor (0.0.1)
   - HtmlModule (0.0.1):
     - IBACore
     - IBACoreUI
@@ -66,12 +65,6 @@ PODS:
   - Tabman (2.6.3):
     - AutoInsetter (~> 1.8.0)
     - Pageboy (~> 3.5.0)
-  - VideoListModule (0.0.1):
-    - HCVimeoVideoExtractor
-    - IBACore
-    - IBACoreUI
-    - XCDYouTubeKit
-  - XCDYouTubeKit (2.8.2)
   - XMLMapper (1.5.3):
     - XMLMapper/Core (= 1.5.3)
   - XMLMapper/Core (1.5.3)
@@ -90,7 +83,6 @@ DEPENDENCIES:
   - PhoneCallModule (from `https://github.com/iBuildApp/ios_phonecallwidget.git`, branch `master`)
   - PhotoGalleryModule (from `https://github.com/iBuildApp/ios_photogallerywidget.git`, branch `master`)
   - QRScannerModule (from `https://github.com/iBuildApp/ios_qrscannerwidget.git`, branch `master`)
-  - VideoListModule (from `https://github.com/iBuildApp/ios_videolistwidget.git`, branch `master`)
 
 SPEC REPOS:
   trunk:
@@ -99,7 +91,6 @@ SPEC REPOS:
     - Cache
     - FlexLayout
     - GRDB.swift
-    - HCVimeoVideoExtractor
     - Kingfisher
     - NextLevel
     - Pageboy
@@ -107,7 +98,6 @@ SPEC REPOS:
     - PKHUD
     - SwiftAudio
     - Tabman
-    - XCDYouTubeKit
     - XMLMapper
 
 EXTERNAL SOURCES:
@@ -150,9 +140,6 @@ EXTERNAL SOURCES:
   QRScannerModule:
     :branch: master
     :git: https://github.com/iBuildApp/ios_qrscannerwidget.git
-  VideoListModule:
-    :branch: master
-    :git: https://github.com/iBuildApp/ios_videolistwidget.git
 
 CHECKOUT OPTIONS:
   AudioListModule:
@@ -177,13 +164,13 @@ CHECKOUT OPTIONS:
     :commit: dd7aca39b547cc3de8405f42e992339046436436
     :git: https://github.com/iBuildApp/ios_htmlwidget.git
   IBACore:
-    :commit: 18af2223e2a2c4a6b91a1af40ec355be1b14cebe
+    :commit: 4f5ca4e69400df4b6a452e8e5f184314e5ca25b4
     :git: https://github.com/iBuildApp/ios_IBACore.git
   IBACoreUI:
     :commit: 5ee852a7f02444391111fafabaae1c306695324a
     :git: https://github.com/iBuildApp/ios_IBACoreUI.git
   PDFReaderModule:
-    :commit: a0235108a3dd122259c6169f8ef9221f21672004
+    :commit: 44b3d41de2b743391eaf8354f5152de41acd3201
     :git: https://github.com/iBuildApp/ios_pdfreaderwidget.git
   PhoneCallModule:
     :commit: 7c6716a43c4596f523f07dfa8dfc0c564d4680cf
@@ -194,9 +181,6 @@ CHECKOUT OPTIONS:
   QRScannerModule:
     :commit: 26286911432786b6ece43f022fd73a60de880d13
     :git: https://github.com/iBuildApp/ios_qrscannerwidget.git
-  VideoListModule:
-    :commit: 3c6cd95c09dedf6cc616936cce68a33fdd337e59
-    :git: https://github.com/iBuildApp/ios_videolistwidget.git
 
 SPEC CHECKSUMS:
   Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
@@ -210,7 +194,6 @@ SPEC CHECKSUMS:
   EmailModule: 0cc2bf90a4af9f97350a2fc2f375ac800caf2847
   FlexLayout: 257b6763526bc957d2abc2b77a05760b86ca0e21
   GRDB.swift: 4f9b6e7efc9470426f6a6de10ec1fee798ff7e43
-  HCVimeoVideoExtractor: d3c251280f7027ffd324266e1930b3618e0adb46
   HtmlModule: c5eab89d21cd275aaf2bacf347ca56e575835d45
   IBACore: 620d27970142bef57c1ec62b8d63a884e6bafc30
   IBACoreUI: bc3ddbb186e1f06cf15c30dd0034279e245a661e
@@ -225,10 +208,8 @@ SPEC CHECKSUMS:
   QRScannerModule: e0f1bf83b78d837b9a63abebd0cef2b35489901e
   SwiftAudio: f71f0a94068539bf7819b6cc753c0e5dec89621f
   Tabman: 63eae331ae7a9388ae389b1808f1939269fcdece
-  VideoListModule: 8d4dd9b3c2ad104539537947ef4bba949319849c
-  XCDYouTubeKit: 79baadb0560673a67c771eba45f83e353fd12c1f
   XMLMapper: 26bfd75cd204b514b608a41681415f2bdbac1053
 
-PODFILE CHECKSUM: d7ef83dfacff367b2bb1180b0c748ce8fd84a644
+PODFILE CHECKSUM: b649c742b8c2f45a395cc70db259aa52f1c5c053
 
 COCOAPODS: 1.8.4
