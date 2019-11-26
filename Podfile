@@ -13,7 +13,7 @@ target 'DemoAPP' do
   pod 'QRScannerModule', :git => 'https://github.com/iBuildApp/ios_qrscannerwidget.git', :branch => 'master'
   pod 'CameraModule', :git => 'https://github.com/iBuildApp/ios_camerawidget.git', :branch => 'master'
   pod 'CustomFormModule', :git => 'https://github.com/iBuildApp/ios_customformwidget.git', :branch => 'master'
-  pod 'VideoListModule', :git => 'https://github.com/iBuildApp/ios_videolistwidget.git', :branch => 'master'
+#  pod 'VideoListModule', :git => 'https://github.com/iBuildApp/ios_videolistwidget.git', :branch => 'master'
   pod 'AudioListModule', :git => 'https://github.com/iBuildApp/ios_audiolistwidget.git', :branch => 'master'
   pod 'PhotoGalleryModule', :git => 'https://github.com/iBuildApp/ios_photogallerywidget.git', :branch => 'master'
   pod 'PDFReaderModule', :git => 'https://github.com/iBuildApp/ios_pdfreaderwidget.git', :branch => 'master'
